@@ -1,0 +1,14 @@
+com\example\demo\controller\ClientController.class
+com\example\demo\model\UserPolicyClaim.class
+com\example\demo\UserManagementAppApplication.class
+com\example\demo\model\User.class
+com\daily\insurance\utils\PasswordUtils.class
+com\example\demo\model\UserDto.class
+com\example\demo\model\Wallet.class
+com\example\demo\service\ClientServiceImpl.class
+com\example\demo\service\ClientService.class
+com\example\demo\repository\ClientRepo.class
+com\example\demo\model\RegistrationResponse.class
+com\example\demo\model\Constants.class
+com\example\demo\model\LoginRequest.class
+com\example\demo\model\RegistrationRequest.class
